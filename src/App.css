@@ -106,6 +106,8 @@ input[type='text'] {
   height: 100%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  outline-style: solid;
+  border-color: #fff;
 }
 
 .card-back {
